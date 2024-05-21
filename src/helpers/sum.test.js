@@ -1,3 +1,3 @@
-import { sum } from './sum';
+import { sum } from "./sum";
 
-test('testing our sum functionality', () => expect(sum(4, 5)).toBe(20));
+test("testing our sum functionality", () => expect(sum(4, 5)).toBe(20));
