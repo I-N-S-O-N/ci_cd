@@ -4,8 +4,8 @@ export const sum = (a, b) => {
 
 // const numbers = [1,2,3]
 
-// const value = 'braim'
-// console.log(value);
+const value = "braim";
+console.log(value);
 
 // function sum() {
 //   for (const iterator of numbers) {
